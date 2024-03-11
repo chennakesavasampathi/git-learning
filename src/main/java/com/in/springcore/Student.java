@@ -9,7 +9,7 @@ public class Student {
 	public Student(String str) {
 		
 		this.str=str;
-		System.out.println("when student object is called student constuctor is called");
+		System.out.println("student object is called student constuctor is called");
 		
 	}
 	
